@@ -1,0 +1,1 @@
+This is a project done during an AIML Hackathon using Python. This project contains a model trained using Random Forest Regression for predicting the air quality at a particular timestamp using a dataset of 5 years.
